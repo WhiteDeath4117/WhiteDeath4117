@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Future Software Engineer | Python Learner | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Code;Learning+Python+%26+AI;Future+Tech+Builder;Consistency+%3D+Power;Work+in+Silence+🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Ideas+into+Code;Learning+Python+%26+AI;Future+Tech+Builder;Consistency+%3D+Power;Focused+on+Growth+Everyday+🔥">
 </p>
 
 <p align="center">
@@ -16,6 +16,6 @@
 ```yaml
 Name: Divyansh Mourya
 Role: Student | Future Software Engineer
-Focus: Python, Problem Solving, AI Basics
-Status: Learning > Practicing > Growing
-Mindset: Discipline + Consistency + Focus
+Learning: Python, Problem Solving, AI Basics
+Focus: Strong Fundamentals + Real Skills
+Goal: Build impactful and smart systems

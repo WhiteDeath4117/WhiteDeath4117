@@ -16,6 +16,6 @@
 ```yaml
 Name: Divyansh Mourya
 Role: Student | Future Software Engineer
-Learning: Python, Problem Solving, AI and ML  
+Learning: Python, Problem Solving  
 Focus: Strong Fundamentals + Real Skills
 Goal: Build impactful and smart systems
